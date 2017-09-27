@@ -1,4 +1,5 @@
-## Google Apps Scriptってご存知？
+## Google Apps Scriptって
+## ご存知？
 
 by かねけん
 
