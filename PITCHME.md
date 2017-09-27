@@ -1,7 +1,6 @@
-### Google Apps Scriptってご存知？
-Google Apps Script
+## Google Apps Scriptってご存知？
 
-かねけん
+by かねけん
 
 
 ---
